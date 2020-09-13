@@ -1,1 +1,1 @@
-# CSCI106-Projects
+# CSCI106 Projects
